@@ -1,0 +1,1 @@
+INSERT INTO cd.facilities (name, facid, membercost, guestcost, initialoutlay, monthlymaintenance) values('Spa', 9, 20, 30, 100000, 800)
