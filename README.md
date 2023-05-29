@@ -3,6 +3,9 @@
 My solutions to the problems at [PostgreSQL Exercises](https://pgexercises.com/) website for practicing SQL with some notes.
 The solutions are categorized by the topic as the website.
 
+## The schema
+![img](schema.svg)
+
 ## Table of Contents
 
 - [Getting Started (external website)](https://pgexercises.com/gettingstarted.html)
